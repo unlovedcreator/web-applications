@@ -81,22 +81,22 @@ class PatientAdmin(admin.modelAdmin):
     list_filter = ('doctor__spec')
 ```
 ___
-![Миграция созданных моделей](screenshots/migration.png)
+![Миграция созданных моделей](screenshots/migration.png)  
 *Миграция созданных моделей*
 ___
-![Вид базы данных модели Doctor](screenshots/doctor.png)
+![Вид базы данных модели Doctor](screenshots/doctor.png)  
 *Вид базы данных модели Doctor*
 ___
-![Вид базы данных модели Patient](screenshots/patient.png)
+![Вид базы данных модели Patient](screenshots/patient.png)  
 *Вид базы данных модели Patient*
 ___
-![Заполненная таблица врачей](screenshots/registered_doctors.png)
+![Заполненная таблица врачей](screenshots/registered_doctors.png)  
 *Заполненная таблица врачей*
 ___
-![Заполненная таблица пациентов](screenshots/registered_patients.png)
+![Заполненная таблица пациентов](screenshots/registered_patients.png)  
 *Заполненная таблица пациентов*
 ___
-![Заполненная таблица пациентов (правая часть)](screenshots/registered_patients2.png)
+![Заполненная таблица пациентов (правая часть)](screenshots/registered_patients2.png)  
 *Заполненная таблица пациентов (правая часть)*
 
 ## Вывод 
